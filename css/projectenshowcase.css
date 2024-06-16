@@ -5,3 +5,7 @@ body {
     background-image: url(/img/portofolio\ achtergrond\ 2.jpg);
     color: white;
   }
+
+  .img{
+    width: 20%;
+  }
